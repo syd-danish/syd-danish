@@ -1,3 +1,4 @@
+<img src= ![IMG_20231224_202824947](https://github.com/user-attachments/assets/66d286ea-0e7c-4dc2-bbf9-03f909a95326)  alt="The Above Image is to show that I am more qualified at making pancakes than programming......" width="300" height="200">
 <h1 align="center">My Name is Kh- Danish🇩🇰</h1>
 <h3 align="center">I am currently working as a software engineer so I can reclaim my mainland of Copenhagen🇩🇰</h3>
 
