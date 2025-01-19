@@ -1,8 +1,9 @@
-<img src= https://imgur.com/a/ptBMyC8, width="300" height="600">
+<img src= https://imgur.com/a/ptBMyC8, width="300" height="300">
 
 The above image is show that I am more qualified at making pancakes than programming. 
 <h1 align="center">My Name is Kh- Danish🇩🇰</h1>
-<h3 align="center">I am currently studying software engineering as an undergraduate so I can reclaim my mainland of Copenhagen🇩🇰 </h3>
+<h3 align="center">I am currently studying software engineering as an undergraduate so I can reclaim my mainland of Copenhagen🇩🇰 as well as the Faroe Islands🇫🇴</h3>
+
  
 
 
