@@ -3,7 +3,11 @@
 <h1 align="center">My Name is Kh- Danish🇩🇰</h1>
 <h3 align="center">I am currently studying software engineering as an undergraduate so I can reclaim my mainland of Copenhagen🇩🇰</h3>
 
- 📫 How to reach me: **yasindanish13@gmail.com** **0502414595** 
+
+  
+
+ 📫 If you want to reach me: **yasindanish13@gmail.com** **0502414595** 
+  
 
 <h3 align="left">Connect with me (LeetCode is just like the bitch I keep staring at and don't do shit about lol) </h3>
 <p align="left">
