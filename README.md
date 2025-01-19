@@ -1,6 +1,5 @@
-<img src= https://imgur.com/a/ptBMyC8, width="300" height="300">
+<h3 align="center"> DISCLAIMER: I am more qualified at making pancakes and cleaning floors than programming</h3>
 
-The above image is to show that I am more qualified at making pancakes than programming. 
 <h1 align="center">My Name is Kh- Danish🇩🇰</h1>
 <h3 align="center">I am currently studying software engineering as an undergraduate so I can reclaim my mainland of Copenhagen🇩🇰 as well as the Faroe Islands🇫🇴</h3>
 
