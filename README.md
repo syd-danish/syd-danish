@@ -1,14 +1,15 @@
 <img src= ![IMG_20231224_202824947](https://github.com/user-attachments/assets/66d286ea-0e7c-4dc2-bbf9-03f909a95326) width="300" height="200">
-<h3 align="centre">The above image is show that I am more qualified at making pancakes than programming  </h3>
+<h3 align="centre">The above image is show that I am more qualified at making pancakes than programming. </h3>
 <h1 align="center">My Name is Kh- Danish🇩🇰</h1>
-<h3 align="center">I am currently working as a software engineer so I can reclaim my mainland of Copenhagen🇩🇰</h3>
+<h3 align="center">I am currently studying software engineering as an undergraduate so I can reclaim my mainland of Copenhagen🇩🇰</h3>
 
-- 📫 How to reach me: **yasindanish13@gmail.com** **0502414595** 
+ 📫 How to reach me: **yasindanish13@gmail.com** **0502414595** 
 
 <h3 align="left">Connect with me (LeetCode is just like the bitch I keep staring at and don't do shit about lol) </h3>
 <p align="left">
 <a href="https://instagram.com/syd__danishytf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syd__danishytf" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/syddanish13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="syddanish13" height="30" width="40" /></a>
+  
 </p>
 
 <h3 align="left">Languages and Tools I have learned (with a lot of pain!):</h3>
