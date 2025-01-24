@@ -1,4 +1,4 @@
-<h3 align="center"> DISCLAIMER: I am more qualified at making dinner and cleaning dishes than programming</h3>
+<h3 align="center"> DISCLAIMER: I am more qualified at making pancakes and cleaning dishes than programming</h3>
 
 <h1 align="center">My Name is Kh- Danish🇩🇰</h1>
 <h3 align="center">I am currently studying software engineering as an undergraduate so I can reclaim my mainland of Copenhagen🇩🇰 as well as the Faroe Islands🇫🇴</h3>
